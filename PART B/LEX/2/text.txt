@@ -1,0 +1,8 @@
+int main() //driver function
+{
+    int a=5;
+    a=a+5;
+    cout<<a;
+    return a;
+}/*End
+of program*/
